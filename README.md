@@ -1,6 +1,6 @@
 #Pre-work 
 
-"Tip Calculator" is a tip calculator application for iOS.
+"Tip Calculator" is an application that can calculate tips automatically for iOS.
 
 Submitted by: Haena Kim
 
@@ -26,12 +26,13 @@ If I have more time in the future, I would like to include all the optional feat
 
 Here's a walkthrough of implemented user stories:
 
+http://imgur.com/LFz33Pg
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Using Github for the first time.
+Using Github for the first time was little confusing but I found the way to upload the requirements. I am more familiar with using Github after this assignment.
 
 ## License
 
